@@ -13,3 +13,6 @@
 5. 开启动画，设置动画效果(移动时间及加速效果等)
 
 ![效果图](https://github.com/chenzaidong/FocusBorderViewDemo/blob/master/resultPic/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
+
+文章博客地址
+(http://blog.csdn.net/a503066623/article/details/74158300)
